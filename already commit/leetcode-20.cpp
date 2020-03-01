@@ -2,7 +2,7 @@
 	> File Name: leetcode-20.cpp
 	> Author: 
 	> Mail: 
-	> Created Time: 2020年02月26日 星期三 16时14分09秒
+	> Created Time: 2020年02月27日 星期四 20时48分02秒
  ************************************************************************/
 bool isValid(char * s){
     int len = strlen(s);

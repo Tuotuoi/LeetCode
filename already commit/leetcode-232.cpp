@@ -2,7 +2,7 @@
 	> File Name: leetcode-232.cpp
 	> Author: 
 	> Mail: 
-	> Created Time: 2020年02月26日 星期三 16时14分45秒
+	> Created Time: 2020年02月27日 星期四 20时48分32秒
  ************************************************************************/
 typedef struct Stack {
     int data[100];
